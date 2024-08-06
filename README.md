@@ -12,4 +12,4 @@
 
 ### Link to the dataset:- https://www.kaggle.com/adityajn105/flickr8k
 
-### You can check out my research paper:- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3769884 for strengthening your concepts about deep learning
+
