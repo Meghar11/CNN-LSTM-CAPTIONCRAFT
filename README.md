@@ -1,4 +1,4 @@
-# Image-Caption-GeneratorCNN-LSTM CAPTIONCRAFT
+# CNN-LSTM CAPTIONCRAFT
 ## This project is about generating automatic captions based on the image uploaded by the user in the application. The domains used in the project are Deep learning and NLP, Basic web development, Cloud computing, Flask app development.
 
 ### The Entire model was trained on the google cloud platform.
