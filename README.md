@@ -10,6 +10,6 @@
 
 ### Google colab was used as a platform and the dataset used for training the model was flickr8k dataset consisting of about 8000 images with 5 different captions for each image.
 
-### Link to the dataset:- https://www.kaggle.com/adityajn105/flickr8k
+
 
 
